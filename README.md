@@ -1,6 +1,7 @@
 # Powershell-Mailer-SMS-Script
+Send multiple files to one or many e-mail destinations.
 ## How to use:
-Send multiple files to one or many e-mail destinations. Just edit the config and following the commented directions above each line of variables to your specifications.
+Just edit the config and following the commented directions above each line of variables to your specifications.
 Then, set up a scheduled task or hook to run this script as needed.</br>
 ### Tested on:
 
