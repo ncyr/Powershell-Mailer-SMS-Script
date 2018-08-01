@@ -1,6 +1,7 @@
 # Powershell-Mailer-SMS-Script
 ## How to use:
-Set up a scheduled task or hook to run this script to send multiple files to one or many e-mail destinations.</br>
+Send multiple files to one or many e-mail destinations. Just edit the config and following the commented directions above each line of variables to your specifications.
+Then, set up a scheduled task or hook to run this script as needed.</br>
 ### Tested on:
 
 **OSVersion**                      Windows 10 Pro 64-bit</br>
